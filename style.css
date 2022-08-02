@@ -1,0 +1,156 @@
+@import url("https://use.typekit.net/pvy5tal.css");
+*{
+    font-family: 'poppins',sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body
+{
+    background-color: #022646;
+}
+header
+{
+    background-color:#018ABD;
+    width: 100%;
+    display: flex;
+    padding: 1em 10em ;
+     justify-content: space-between;
+     align-items: center;
+     z-index: 999;
+     position: fixed;
+}
+.logo
+{
+    font-weight: 750;
+    text-decoration: none;
+    padding: 5px 100px;
+    font-size: 4em;
+    text-transform: uppercase;
+    color:#DDE8F0 ;
+}
+.navigation a
+{
+ text-decoration: none;
+ padding: 0px 10px;
+ font-size: 1.5em;
+ color:#DDE8F0 ;
+}
+.navigation a:hover
+{
+    opacity: 0.7;
+}
+.blog
+{
+    padding: 150px 100px;
+}
+.blog .blog-title
+{
+    color:#97CBDC;
+    font-size: 3em;
+    font-weight: 750;
+    text-shadow: 5px 5px rgba(0, 0, 0, 0.230);
+}
+.blog .blog-info
+{
+    font-size: 150%;
+    color:#DDE8F0 ;
+    padding: 1.5em 0.5em;
+    text-transform: capitalize;
+}
+.projects .glitshyworlddemotitle
+{
+    padding: 100px 100px;
+    font-size: 2.5em;
+    color:#DDE8F0 ;
+    font-weight: 650;
+    text-shadow: 5px 5px rgba(0, 0, 0, 0.230);
+}
+.projects .projects-title
+{
+    padding-left: 2em;
+    color:#97CBDC;
+    font-size: 3em;
+    font-weight: 750;
+    text-shadow: 5px 5px rgba(0, 0, 0, 0.230);
+}
+.projects a
+{
+padding-left: 750px;
+}
+.projects a:hover
+{
+    opacity: 0.8;
+}
+.projects .description
+{
+    padding-left: 100px;
+    padding-top: 100px;
+    color:#DDE8F0 ;
+    font-size: 2em;
+    font-weight: 500;
+}
+.projects .glitshyworlddes
+{
+    font-size: 150%;
+    color:#DDE8F0 ;
+    padding: 1.5em 4.1em;
+    text-transform: capitalize;
+}
+.projects .platforms
+{
+    padding-left: 100px;
+    padding-top: 9px;
+    color:#DDE8F0 ;
+    font-size: 2em;
+    font-weight: 500; 
+    text-transform: capitalize;
+}
+.projects .platformsinfo
+{
+    font-size: 150%;
+    color:#DDE8F0 ;
+    padding: 1.5em 4.1em;
+    text-transform: capitalize;
+}
+.projects .GlitshyWorldTitle
+{
+    padding: 100px 100px;
+    font-size: 2.5em;
+    color:#DDE8F0 ;
+    font-weight: 650;
+    text-shadow: 5px 5px rgba(0, 0, 0, 0.230);
+}
+.blog div
+{
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.150);
+}
+.contact .contacting
+{
+
+    color:#97CBDC;
+    font-size: 3em;
+    font-weight: 750;
+    text-shadow: 5px 5px rgba(0, 0, 0, 0.230);
+    padding-left: 2em;
+    text-decoration: none;
+}
+.contact .links
+{
+    text-decoration:none;
+    font-style: normal;
+   padding-top: 30px;
+   padding-left: 100px;
+    font-size: 2em;
+    font-weight: 500;
+    color:#DDE8F0 ;
+    width: 10%;
+}
+.contact 
+{
+    padding-bottom: 75px;
+}
+
+
+
